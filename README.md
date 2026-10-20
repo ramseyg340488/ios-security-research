@@ -8,7 +8,7 @@
 
 本系列共 6 篇，按顺序陆续发布。
 
-1. iOS 安全架构演进：SPTM、TXM 与 Exclaves 技术体系解析（待发布）
+1. [iOS 安全架构演进：SPTM、TXM 与 Exclaves 技术体系解析](./01-iOS安全架构演进-SPTM-TXM与Exclaves技术体系解析.md)
 2. iOS 安全沙箱机制深度解析：从 Coruna 与 DarkSword 看沙箱逃逸的攻防演进（待发布）
 3. iOS 安全研究专题：Coruna 与 DarkSword 漏洞链深度解析（待发布）
 4. iOS 高级漏洞研究：从 WebKit 到内核提权的移动安全攻防演进（待发布）
@@ -21,4 +21,4 @@
 
 ## 说明
 
-同一系列在 Gitee 与 GitHub 同步发布。
+同一系列在 GitHub 与 Gitee 同步发布。
