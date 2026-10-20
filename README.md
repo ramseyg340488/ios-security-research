@@ -11,7 +11,7 @@
 1. [iOS 安全架构演进：SPTM、TXM 与 Exclaves 技术体系解析](./01-iOS安全架构演进-SPTM-TXM与Exclaves技术体系解析.md)
 2. [iOS 安全沙箱机制深度解析：从 Coruna 与 DarkSword 看沙箱逃逸的攻防演进](./02-iOS安全沙箱机制深度解析-从Coruna与DarkSword看沙箱逃逸的攻防演进.md)
 3. [iOS 安全研究专题：Coruna 与 DarkSword 漏洞链深度解析](./03-iOS安全研究专题-Coruna与DarkSword漏洞链深度解析.md)
-4. iOS 高级漏洞研究：从 WebKit 到内核提权的移动安全攻防演进（待发布）
+4. [iOS 高级漏洞研究：从 WebKit 到内核提权的移动安全攻防演进](./04-iOS高级漏洞研究-从WebKit到内核提权的移动安全攻防演进.md)
 5. iOS 固件更新安全分析：从 OTA 验证到降级防护的攻击面研究（待发布）
 6. iOS 后台执行与持久化机制分析：从 BackgroundTasks 到系统守护进程的驻留攻防（待发布）
 
