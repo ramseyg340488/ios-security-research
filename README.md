@@ -17,7 +17,7 @@
 7. [iOS Coruna 与 DarkSword 漏洞利用链深度分析：攻击机制、安全风险与防御体系](./07-iOS-Coruna与DarkSword漏洞利用链深度分析-攻击机制安全风险与防御体系.md)
 8. [Coruna 漏洞利用链中的 WebKit 入口点深度分析：从 CVE-2024-23222 到浏览器 RCE 机制](./08-Coruna漏洞利用链中的WebKit入口点深度分析-从CVE-2024-23222到浏览器RCE机制.md)
 9. [Coruna 的 PlasmaLoader 载荷深度解析：金融信息窃取机制与加密货币威胁](./09-Coruna的PlasmaLoader载荷深度解析-金融信息窃取机制与加密货币威胁.md)
-10. ARM 指针认证码 PAC 绕过技术前沿：从 Coruna 到 DarkSword 的控制流攻击实践（待发布）
+10. [ARM 指针认证码 PAC 绕过技术前沿：从 Coruna 到 DarkSword 的控制流攻击实践](./10-ARM指针认证码PAC绕过技术前沿-从Coruna到DarkSword的控制流攻击实践.md)
 11. Mach IPC 与 XNU 内核攻击面：Coruna 与 DarkSword 利用链中的系统调用深度解析（待发布）
 12. 从 Coruna 与 DarkSword 看 iOS 沙箱逃逸技术演进：从 WebContent 到系统服务的攻击路径（待发布）
 
