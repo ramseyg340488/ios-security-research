@@ -19,7 +19,7 @@
 9. [Coruna 的 PlasmaLoader 载荷深度解析：金融信息窃取机制与加密货币威胁](./09-Coruna的PlasmaLoader载荷深度解析-金融信息窃取机制与加密货币威胁.md)
 10. [ARM 指针认证码 PAC 绕过技术前沿：从 Coruna 到 DarkSword 的控制流攻击实践](./10-ARM指针认证码PAC绕过技术前沿-从Coruna到DarkSword的控制流攻击实践.md)
 11. [Mach IPC 与 XNU 内核攻击面：Coruna 与 DarkSword 利用链中的系统调用深度解析](./11-MachIPC与XNU内核攻击面-Coruna与DarkSword利用链中的系统调用深度解析.md)
-12. 从 Coruna 与 DarkSword 看 iOS 沙箱逃逸技术演进：从 WebContent 到系统服务的攻击路径（待发布）
+12. [从 Coruna 与 DarkSword 看 iOS 沙箱逃逸技术演进：从 WebContent 到系统服务的攻击路径](./12-从Coruna与DarkSword看iOS沙箱逃逸技术演进-从WebContent到系统服务的攻击路径.md)
 
 ## 阅读顺序建议
 
