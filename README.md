@@ -27,7 +27,7 @@
 17. [iOS 蓝牙与近场通信攻击面分析：Coruna 与 DarkSword 生态中无线链路的安全边界](./17-iOS蓝牙与近场通信攻击面分析-Coruna与DarkSword生态中无线链路的安全边界.md)
 18. [iOS 生物识别与本地认证安全：Touch ID 与 Face ID 在高级攻击链中的信任边界](./18-iOS生物识别与本地认证安全-TouchID与FaceID在高级攻击链中的信任边界.md)
 19. [Secure Enclave 与密钥保护边界分析：从 Coruna 与 DarkSword 看 SEP 的攻防价值](./19-SecureEnclave与密钥保护边界分析-从Coruna与DarkSword看SEP的攻防价值.md)
-20. iOS 密码学服务与钥匙串安全：从 SecItem 到 CryptoKit 的密钥生命周期威胁分析（待发布）
+20. [iOS 密码学服务与钥匙串安全：从 SecItem 到 CryptoKit 的密钥生命周期威胁分析](./20-iOS密码学服务与钥匙串安全-从SecItem到CryptoKit的密钥生命周期威胁分析.md)
 21. iOS 应用数据容器与 App Group 安全：从共享文件到跨应用横向移动的攻防分析（待发布）
 22. iOS 数字取证与反取证对抗：Coruna 与 DarkSword 痕迹清理与检测取证的博弈（待发布）
 
