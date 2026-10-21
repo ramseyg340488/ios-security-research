@@ -29,7 +29,7 @@
 19. [Secure Enclave 与密钥保护边界分析：从 Coruna 与 DarkSword 看 SEP 的攻防价值](./19-SecureEnclave与密钥保护边界分析-从Coruna与DarkSword看SEP的攻防价值.md)
 20. [iOS 密码学服务与钥匙串安全：从 SecItem 到 CryptoKit 的密钥生命周期威胁分析](./20-iOS密码学服务与钥匙串安全-从SecItem到CryptoKit的密钥生命周期威胁分析.md)
 21. [iOS 应用数据容器与 App Group 安全：从共享文件到跨应用横向移动的攻防分析](./21-iOS应用数据容器与AppGroup安全-从共享文件到跨应用横向移动的攻防分析.md)
-22. iOS 数字取证与反取证对抗：Coruna 与 DarkSword 痕迹清理与检测取证的博弈（待发布）
+22. [iOS 数字取证与反取证对抗：Coruna 与 DarkSword 痕迹清理与检测取证的博弈](./22-iOS数字取证与反取证对抗-Coruna与DarkSword痕迹清理与检测取证的博弈.md)
 
 ## 阅读顺序建议
 
