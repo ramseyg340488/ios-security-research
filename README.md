@@ -36,7 +36,7 @@
 26. [iOS 内存分配器与堆利用缓解：从 kalloc 隔离到 MTE 时代的内核利用工程评估](./26-iOS内存分配器与堆利用缓解-kalloc隔离到MTE时代的内核利用工程评估.md)
 27. [PAC 绕过技术演进：ARM64e 时代的控制流保护分析](./27-PAC绕过技术演进-ARM64e时代控制流保护分析.md)
 28. [iOS 代码签名体系攻防演进：从 AMFI 到内核签名验证的突破与加固](./28-iOS代码签名体系攻防演进-从AMFI到内核签名验证的突破与加固.md)
-29. SPTM、TXM 与 Exclaves：苹果下一代安全架构解析（待发布）
+29. [SPTM、TXM 与 Exclaves：苹果下一代安全架构解析](./29-SPTM-TXM与Exclaves苹果下一代安全架构解析.md)
 30. SPTM/TXM 深度解析：苹果如何重新定义 Kernel 安全边界（待发布）
 31. Memory Integrity Enforcement：苹果下一代内存安全战略分析（待发布）
 32. 现代 iOS Kernel 漏洞挖掘方法论：从源码审计到安全验证（待发布）
