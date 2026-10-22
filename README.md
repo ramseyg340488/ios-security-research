@@ -39,7 +39,7 @@
 29. [SPTM、TXM 与 Exclaves：苹果下一代安全架构解析](./29-SPTM-TXM与Exclaves苹果下一代安全架构解析.md)
 30. [SPTM/TXM 深度解析：苹果如何重新定义 Kernel 安全边界](./30-SPTM-TXM深度解析-苹果如何重新定义Kernel安全边界.md)
 31. [Memory Integrity Enforcement：苹果下一代内存安全战略分析](./31-Memory-Integrity-Enforcement苹果下一代内存安全战略分析.md)
-32. 现代 iOS Kernel 漏洞挖掘方法论：从源码审计到安全验证（待发布）
+32. [现代 iOS Kernel 漏洞挖掘方法论：从源码审计到安全验证](./32-现代iOS-Kernel漏洞挖掘方法论-从源码审计到安全验证.md)
 
 ## 阅读顺序建议
 
