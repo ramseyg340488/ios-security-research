@@ -44,7 +44,7 @@
 34. [DarkSword 六个漏洞协同利用时序分析：攻击阶段依赖关系与关键路径](./34-DarkSword六个漏洞协同利用时序分析-攻击阶段依赖关系与关键路径.md)
 35. [JavaScriptCore 类型混淆漏洞利用原理：从 Coruna 到 DarkSword 的 JIT 安全攻防](./35-JavaScriptCore类型混淆漏洞利用原理-从Coruna到DarkSword的JIT安全攻防.md)
 36. [Coruna 与 DarkSword 设备指纹识别机制对比：如何选择最优攻击链](./36-Coruna与DarkSword设备指纹识别机制对比-如何选择最优攻击链.md)
-37. Coruna 与 DarkSword 对 Exclaves 安全架构的启示：从 XNU 失陷到跨域攻击边界（待发布）
+37. [Coruna 与 DarkSword 对 Exclaves 安全架构的启示：从 XNU 失陷到跨域攻击边界](./37-Coruna与DarkSword对Exclaves安全架构的启示-从XNU失陷到跨域攻击边界分析.md)
 38. Coruna 与 DarkSword 对加密货币用户的定向威胁：助记词窃取与资产保护（待发布）
 39. Coruna 与 DarkSword 威胁建模与攻击面量化：从资产分类到风险矩阵（待发布）
 40. 针对 Coruna 与 DarkSword 的网络层检测：流量特征分析与 IOC 提取（待发布）
