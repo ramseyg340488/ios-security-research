@@ -41,7 +41,7 @@
 31. [Memory Integrity Enforcement：苹果下一代内存安全战略分析](./31-Memory-Integrity-Enforcement苹果下一代内存安全战略分析.md)
 32. [现代 iOS Kernel 漏洞挖掘方法论：从源码审计到安全验证](./32-现代iOS-Kernel漏洞挖掘方法论-从源码审计到安全验证.md)
 33. [从 Coruna 到 DarkSword：iOS 攻击链演进时间线（2024—2026）](./33-从Coruna到DarkSword-iOS攻击链演进时间线-2024至2026.md)
-34. DarkSword 六个漏洞协同利用时序分析：攻击阶段依赖关系与关键路径（待发布）
+34. [DarkSword 六个漏洞协同利用时序分析：攻击阶段依赖关系与关键路径](./34-DarkSword六个漏洞协同利用时序分析-攻击阶段依赖关系与关键路径.md)
 35. JavaScriptCore 类型混淆漏洞利用原理：从 Coruna 到 DarkSword 的 JIT 安全攻防（待发布）
 36. Coruna 与 DarkSword 设备指纹识别机制对比：如何选择最优攻击链（待发布）
 37. Coruna 与 DarkSword 对 Exclaves 安全架构的启示：从 XNU 失陷到跨域攻击边界（待发布）
