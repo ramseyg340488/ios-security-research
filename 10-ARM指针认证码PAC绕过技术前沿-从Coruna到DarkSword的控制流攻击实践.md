@@ -554,3 +554,7 @@ PAC作为Apple ARM64e安全体系的核心组件，通过将密码学验证嵌�
 - DarkSword: Six Vulnerabilities Analysis - Meta/Google TAG (2025)
 - "Pointer Incontext Authentication" - USENIX Security (2024)
 - iOS Kernel PAC Bypass Research - Pangu Team / XK7 (2025)
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

@@ -612,3 +612,7 @@ iOS内核安全已经从"打补丁游戏"进化为"架构级信任重建"——�
 - DarkSword Six-Exploit Chain Breakdown (2025)
 - Project Zero Blog: iOS Kernel Exploitation
 - ARM MTE/SPTM Technical Reference Manuals
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

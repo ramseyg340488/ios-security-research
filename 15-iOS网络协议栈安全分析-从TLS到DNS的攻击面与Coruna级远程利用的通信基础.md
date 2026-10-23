@@ -612,3 +612,7 @@ iOS网络协议栈作为攻击链的通信基础和潜在漏洞入口，在Corun
 - DarkSword C2 Communication Analysis - Meta/Google TAG (2025)
 - DNS over HTTPS in iOS 14+ - Apple Platform Security Update
 - "Network Stack Vulnerability Research" - Pangu/XK7 Team Reports
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

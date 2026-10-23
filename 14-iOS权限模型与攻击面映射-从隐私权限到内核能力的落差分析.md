@@ -675,3 +675,7 @@ iOS权限模型的设计目标是"防止恶意App在用户不知情时窃取数�
 - DarkSword Post-Exploitation Analysis - Citizen Lab / Meta (2025)
 - WWDC: App Privacy and Security Sessions (2020-2026)
 - "The Limits of Software-Enforced Access Control" - Academic Security Research
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

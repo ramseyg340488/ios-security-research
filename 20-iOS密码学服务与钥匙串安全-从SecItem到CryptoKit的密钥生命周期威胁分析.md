@@ -402,3 +402,7 @@ Keychain访问的遥测有限，但仍可建立基线：
 iOS的Keychain安全不是“加密数据库”这么简单，而是由entitlement、保护类、keybag、SEP ACL、每行密钥与备份策略共同构成的分层策略。SecItem API把这些策略压缩成几个属性和标志，任何一个配置错误都可能把“硬件保护”降级为“应用进程内的明文”。CryptoKit提供了好用的密码学原语，但它不会自动把密钥放进Secure Enclave；SE密钥提供了不可导出的硬件边界，但它只支持有限算法，且仍受ACL与用户在场约束。
 
 Coruna与DarkSword的公开描述提醒我们：凭证收集不等于Keychain读取，Web会话数据、应用Keychain与SE密钥是三层不同难度的目标；内核读写也不自动等于Keychain明文。防御者应把密钥当作有生命周期的资产，按“生成—存储—使用—轮换—销毁”逐段设计，把保护类、ACL、access group、同步/备份与服务端撤销放在同一张威胁模型里，而不是在出事之后才问“为什么Keychain没有保护我们”。
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

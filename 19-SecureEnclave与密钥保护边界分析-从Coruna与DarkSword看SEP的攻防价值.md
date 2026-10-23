@@ -645,3 +645,7 @@ SEP的存在是iOS安全模型与纯软件安全模型（如早期Android）的�
 - iOS Data Protection API - Apple Developer Documentation
 - FIDO2/Passkey Security Architecture - Apple/Google/Microsoft Joint Docs
 - "The Hardware Root of Trust in Apple Silicon" - Black Hat/CCC talks
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

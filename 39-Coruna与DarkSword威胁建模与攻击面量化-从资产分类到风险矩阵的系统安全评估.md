@@ -448,3 +448,7 @@ Coruna与DarkSword的对比提醒我们：高级iOS攻击的差异不只在漏�
 - Apple Platform Security Guide：https://support.apple.com/guide/security/welcome/web
 - Apple：About Lockdown Mode：https://support.apple.com/en-us/105120
 - Apple Developer：Restrictions（MDM）：https://developer.apple.com/documentation/devicemanagement/restrictions
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

@@ -627,3 +627,7 @@ iOS固件更新系统通过TSS签名验证、SEP ANTI-REPLAY和Secure Boot链构
 - Rapid Security Response Architecture - Apple Security (2023)
 - Coruna/DarkSword: Target iOS Versions and Patch Timelines (2024-2025)
 - "Firmware Update Security in Mobile Devices" - Academic Survey
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

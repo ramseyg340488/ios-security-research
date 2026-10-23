@@ -614,3 +614,7 @@ XNU内核的攻击面正在通过SPTM/TXM和Tightbeam等下一代架构逐步收
 - DarkSword: Six Vulnerabilities Deep Dive - Meta Security (2025)
 - iOS Kernel Exploitation - Pangu Team Technical Reports
 - Apple Platform Security: Kernel Integrity Protection (2024-2026)
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

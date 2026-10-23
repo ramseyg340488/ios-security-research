@@ -363,3 +363,7 @@ log show --last 24h --predicate 'process == "bluetoothd"' --style compact
 - Apple：Use Express Mode with transit cards, passes, and keys：https://support.apple.com/en-us/105123
 - Apple Developer：Restrictions（MDM）：https://developer.apple.com/documentation/devicemanagement/restrictions
 - Apple Developer：Core Bluetooth、Core NFC、Nearby Interaction 文档：https://developer.apple.com/documentation/
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

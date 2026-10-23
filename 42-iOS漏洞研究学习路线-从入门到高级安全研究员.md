@@ -663,3 +663,7 @@ Exploit Chain研究
 ```
 
 如果目标是成为能够分析 DarkSword、Pegasus、Project Zero 级别 iOS 漏洞的安全研究人员，通常需要 **2～5年的持续积累**。
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

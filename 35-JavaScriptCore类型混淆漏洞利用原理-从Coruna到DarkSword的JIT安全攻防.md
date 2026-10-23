@@ -704,3 +704,7 @@ JavaScriptCore类型混淆漏洞是现代iOS Web攻击链的"第一块多米诺�
 - Fuzzilli: JavaScript Engine Fuzzer - Felix Wilhelm / Google
 - WebKit Security: Memory Safety in JSC - Apple WebKit Team
 - "The Art of Exploiting JIT Engines" - OffensiveCon/BreakingPoint talks
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

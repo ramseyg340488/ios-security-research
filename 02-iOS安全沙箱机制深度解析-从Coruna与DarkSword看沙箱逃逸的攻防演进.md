@@ -529,3 +529,7 @@ iOS沙箱机制作为Apple安全模型的核心组件，通过Seatbelt框架、M
 - iOS Sandbox Internals - Jonathan Levin (2024)
 - ARM Confidential Computing Architecture (CCA)
 - SPTM/TXM Design Documents - Apple Security Research (2025-2026)
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

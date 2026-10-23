@@ -527,3 +527,7 @@ Coruna和DarkSword的真正意义，是证明"传统XNU边界"仍然可以被攻
 **安全研究角度的核心结论：**
 
 Coruna/DarkSword主要把问题推进到了"如何攻破XNU"；SPTM/TXM/Exclaves则把下一阶段问题变成了"如何在XNU已经失陷的情况下跨越可信域边界"。这也是未来苹果平台漏洞研究从传统Kernel Exploitation向Cross-Domain / Secure Kernel / IPC Security转移的重要原因。
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**

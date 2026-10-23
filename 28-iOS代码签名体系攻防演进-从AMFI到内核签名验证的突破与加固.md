@@ -614,3 +614,7 @@ iOS代码签名体系从硬件信任根到运行时验证构建了完整的代�
 - Coruna Exploitation Chain - Google TAG (2024)
 - DarkSword: Multi-Vulnerability Exploit Analysis - Meta (2025)
 - iOS JIT and Dynamic Code Generation Security - Apple Security Engineering
+
+---
+
+**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**
