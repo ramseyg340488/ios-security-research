@@ -1,0 +1,30 @@
+title: iOS 安全攻防研究系列
+description: 现代 iOS 纵深防御体系的系列研究笔记：从芯片与系统安全架构，讲到攻击链的形成逻辑，再回到检测与加固。
+lang: zh-CN
+url: https://ramseyg340488.github.io
+baseurl: /ios-security-research
+
+theme: jekyll-theme-cayman
+encoding: utf-8
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-relative-links
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+titles_from_headings:
+  strip_title: false
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+
+google_site_verification:

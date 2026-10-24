@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'zh-CN' }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {%- if site.google_site_verification %}
+    <meta name="google-site-verification" content="{{ site.google_site_verification }}">
+    {%- endif %}
+    {%- if page.title -%}
+    <title>{{ page.title | append: ' — ' | append: site.title | escape }}</title>
+    <meta name="description" content="{{ page.title | append: '。' | append: site.description | escape }}">
+    {%- else -%}
+    <title>{{ site.title | escape }}</title>
+    <meta name="description" content="{{ site.description | escape }}">
+    {%- endif %}
+    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  </head>
+  <body>
+    <header class="page-header">
+      <div class="inner">
+        <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <p class="project-tagline">{{ site.description }}</p>
+      </div>
+    </header>
+    <section class="main-content">
+      <div class="inner">
+        {{ content }}
+        <footer class="site-footer">
+          <a href="{{ '/' | relative_url }}">返回系列目录</a>
+        </footer>
+      </div>
+    </section>
+  </body>
+</html>
