@@ -120,7 +120,7 @@ DarkSword更像“短时任务”：在浏览器会话内完成尽可能多的�
 ### 3.1 六类资产
 | 资产类 | 典型内容 | 失陷后果 | 关键控制 | 证据来源 |
 |---|---|---|---|---|
-| 用户数据 | 短信、通讯录、日历、照片、健康、位置、备忘录 | 隐私暴露、勒索、定向社工 | Data Protection、TCC、备份加密 | `sms.db`、`AddressBook.sqlitedb`、`Photos.sqlite`、`healthdb_secure.sqlite` |
+| 用户数据 | 短信、通讯录、日历、照片、健康、位置、备忘录 | 隐私暴露、赎金索要、定向社工 | Data Protection、TCC、备份加密 | `sms.db`、`AddressBook.sqlitedb`、`Photos.sqlite`、`healthdb_secure.sqlite` |
 | 凭证 | 密码、Passkey、OAuth令牌、Cookie、Wi-Fi PSK、VPN密钥 | 账号接管、横向移动 | Keychain访问控制、生物识别、会话撤销 | `keychain-2.db`、`Cookies.binarycookies`、App Group容器 |
 | 密钥 | SEP-backed密钥、类密钥、iCloud Keychain、MDM身份证书 | 长期解密、身份伪造 | SEP、Secure Enclave、`ThisDeviceOnly` | `kSecAttrAccessibleWhenUnlockedThisDeviceOnly`、`SecAccessControl` |
 | 企业数据 | 邮件、文件、IM、内网应用、会议 | 数据泄露、合规责任 | 托管账户、per-app VPN、Managed Open In | MDM、ABM、应用配置 |

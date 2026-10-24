@@ -50,7 +50,7 @@ iPhone 的短信系统包含两个独立的通信协议栈：
 
 | 协议 | 技术特征 | 攻击面 |
 | --- | --- | --- |
-| SMS/MMS | 传统电信协议，通过蜂窝网络传输，由 `CommCenter` 和 `CoreTelephony` 处理 | 协议解析漏洞、基带漏洞、MMS 媒体解析 |
+| SMS/MMS | 传统运营商协议，通过蜂窝网络传输，由 `CommCenter` 和 `CoreTelephony` 处理 | 协议解析漏洞、基带漏洞、MMS 媒体解析 |
 | iMessage | Apple 私有端到端加密协议，通过互联网传输，由 `IMDaemonCore` 处理 | 附件解析、链接预览、Universal Links、PassKit、消息扩展 |
 
 两个协议栈均在 `com.apple.MobileSMS` 进程中运行，该进程具有特殊的沙箱权限，可直接访问通讯录、通知中心和部分系统 IPC 接口。

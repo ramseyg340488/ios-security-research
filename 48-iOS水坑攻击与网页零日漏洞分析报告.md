@@ -35,7 +35,7 @@ iOS 水坑攻击（Watering Hole Attack）是指攻击者通过劫持或构造�
 
 一次完整的 iOS 水坑攻击通常由以下阶段构成：
 
-1. **目标选择与站点侦察**：攻击者根据目标群体画像（例如维吾尔族社群、乌克兰国防承包商、港澳反对派媒体受众），选择一到多个高频访问域名作为"水坑"。
+1. **目标选择与站点侦察**：攻击者根据目标群体画像（例如少数民族语言社群、乌克兰国防承包商、港澳地区媒体受众），选择一到多个高频访问域名作为"水坑"。
 2. **站点控制**：
    - 利用 CMS（WordPress/Drupal/Joomla）N-day、第三方插件漏洞或供应链弱点入侵站点；
    - 或者直接入侵 CDN、广告 SDK、JS 托管方（例如 cdn.*、ads.*、counter.*），通过第三方资源注入恶意脚本。
@@ -111,10 +111,10 @@ WebKit 是 iOS 全系设备唯一允许的浏览器引擎（App Store 政策要�
 - 技术要点：WebKit → 沙箱逃逸 → 内核权限 → 植入 "implant"，可读取 iMessage、WhatsApp、Telegram、Gmail、位置、密钥链、设备指纹。
 - 情报影响：首次公开证实 iOS 大规模水坑可实现，推动 Apple 加速 BlastDoor、Lockdown Mode 等缓解。
 
-### 4.2 Operation Poisoned News / LightSpy（2020，香港）
+### 4.2 Operation Poisoned News / LightSpy（2020，中国香港）
 
 - 披露：Trend Micro、Kaspersky（2020）。
-- 手法：攻击者在数个港媒论坛/新闻讨论区发布含恶意链接的回帖，受害者使用 iOS 访问即触发 iOS 12.1—12.2 的 WebKit + 内核链。
+- 手法：攻击者在数个香港本地媒体论坛/新闻讨论区发布含恶意链接的回帖，受害者使用 iOS 访问即触发 iOS 12.1—12.2 的 WebKit + 内核链。
 - 载荷：LightSpy（后续演化出多模块版本，Android/iOS/macOS 跨平台），支持通话、短信、位置、Keychain、浏览器历史、周边 Wi-Fi 等窃取。
 - 延伸：2024—2025 年 LightSpy 新版持续活跃，Lookout、ThreatFabric、BlackBerry 多家厂商披露其在南亚、东南亚、港澳及海外华语社群的扩展目标。
 
