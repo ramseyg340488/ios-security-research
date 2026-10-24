@@ -1,7 +1,5 @@
 # iOS水坑攻击实战解析：Coruna、DarkSword与浏览器漏洞利用链
 
-**咨询iOS系统请咨询 Telegram：https://t.me/one00190**
-
 ---
 
 ## 引言：为什么攻击者不再需要"钓鱼"？

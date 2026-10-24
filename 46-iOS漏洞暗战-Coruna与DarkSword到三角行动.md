@@ -1,7 +1,5 @@
 # iOS漏洞暗战：从Coruna、DarkSword到三角行动，揭秘WebKit、沙箱逃逸与内核提权背后的攻击链
 
-**咨询iOS系统请咨询 Telegram：https://t.me/one00190**
-
 一部 iPhone，到底有多安全？
 
 这是一个看似简单，却很难给出绝对答案的问题。
