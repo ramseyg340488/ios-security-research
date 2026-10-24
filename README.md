@@ -57,7 +57,7 @@
 47. [iOS 水坑攻击实战解析：Coruna、DarkSword 与浏览器漏洞利用链](./47-iOS水坑攻击解析-Coruna与DarkSword浏览器漏洞利用链.md)
 48. [iOS 水坑攻击与网页零日漏洞网络安全分析报告（2026）](./48-iOS水坑攻击与网页零日漏洞分析报告.md)
 49. [iPhone 短信链接触发漏洞网络安全分析报告](./49-iPhone短信链接触发漏洞网络安全分析报告.md)
-50. DarkSword 的 JavaScript 纯脚本攻击模式研究：为何不需要传统 Native Payload（待发布）
+50. [DarkSword 的 JavaScript 纯脚本攻击模式研究：为何不需要传统 Native Payload](./50-DarkSword的JavaScript纯脚本攻击模式研究-为何不需要传统Native Payload.md)
 51. iOS 内存无文件攻击、漏洞利用套件与锁定模式安全分析报告（2026）（待发布）
 52. iOS 17/18 安全架构白皮书（续）：Tightbeam IPC 与 Exclaves 安全通信体系（待发布）
 53. iOS 安全暗线：Coruna 与 DarkSword 漏洞链是如何突破苹果层层防线的（待发布）
