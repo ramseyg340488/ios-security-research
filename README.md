@@ -53,7 +53,7 @@
 43. [商业间谍软件终极图谱：Pegasus、Predator、Coruna、DarkSword 技术演进](./43-商业间谍软件终极图谱-Pegasus-Predator-Coruna-Darksword技术演进.md)
 44. [Coruna 与 DarkSword 和 Pegasus 及 Predator 的技术传承关系：商业间谍软件生态演进](./44-Coruna与DarkSword和Pegasus及Predator的技术传承关系-商业间谍软件生态演进.md)
 45. [商业间谍软件终结时代？MIE 对 Pegasus 类攻击链的影响分析](./45-商业间谍软件终结时代-MIE对Pegasus类攻击链的影响分析.md)
-46. iOS 漏洞暗战：从 Coruna、DarkSword 到三角行动（待发布）
+46. [iOS 漏洞暗战：从 Coruna、DarkSword 到三角行动](./46-iOS漏洞暗战-Coruna与DarkSword到三角行动.md)
 47. iOS 水坑攻击实战解析：Coruna、DarkSword 与浏览器漏洞利用链（待发布）
 48. iOS 水坑攻击与网页零日漏洞网络安全分析报告（2026）（待发布）
 49. iPhone 短信链接触发漏洞网络安全分析报告（待发布）
