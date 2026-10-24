@@ -6,13 +6,16 @@
     {%- if site.google_site_verification %}
     <meta name="google-site-verification" content="{{ site.google_site_verification }}">
     {%- endif %}
-    {%- if page.title -%}
-    <title>{{ page.title | append: ' — ' | append: site.title | escape }}</title>
-    <meta name="description" content="{{ page.title | append: '。' | append: site.description | escape }}">
+    {%- assign ptitle = page.title | default: site.title -%}
+    {%- if ptitle == site.title -%}
+      {%- assign pagetitle = site.title -%}
+      {%- assign pagedesc = site.description -%}
     {%- else -%}
-    <title>{{ site.title | escape }}</title>
-    <meta name="description" content="{{ site.description | escape }}">
+      {%- assign pagetitle = ptitle | append: ' — ' | append: site.title -%}
+      {%- assign pagedesc = ptitle | append: '。' | append: site.description -%}
     {%- endif %}
+    <title>{{ pagetitle | escape }}</title>
+    <meta name="description" content="{{ pagedesc | escape }}">
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   </head>
