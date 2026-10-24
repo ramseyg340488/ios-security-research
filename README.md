@@ -51,7 +51,7 @@
 41. [iOS 设备管理与配置描述文件攻击面：从 MDM 到声明式设备管理的滥用与防护](./41-iOS设备管理与配置描述文件攻击面-从MDM到声明式设备管理的滥用与防护.md)
 42. [iOS 漏洞研究学习路线：从入门到高级安全研究员](./42-iOS漏洞研究学习路线-从入门到高级安全研究员.md)
 43. [商业间谍软件终极图谱：Pegasus、Predator、Coruna、DarkSword 技术演进](./43-商业间谍软件终极图谱-Pegasus-Predator-Coruna-Darksword技术演进.md)
-44. Coruna 与 DarkSword 和 Pegasus 及 Predator 的技术传承关系：商业间谍软件生态演进（待发布）
+44. [Coruna 与 DarkSword 和 Pegasus 及 Predator 的技术传承关系：商业间谍软件生态演进](./44-Coruna与DarkSword和Pegasus及Predator的技术传承关系-商业间谍软件生态演进.md)
 45. 商业间谍软件终结时代？MIE 对 Pegasus 类攻击链的影响分析（待发布）
 46. iOS 漏洞暗战：从 Coruna、DarkSword 到三角行动（待发布）
 47. iOS 水坑攻击实战解析：Coruna、DarkSword 与浏览器漏洞利用链（待发布）
