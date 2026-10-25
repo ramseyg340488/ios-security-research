@@ -62,7 +62,7 @@
 52. [iOS 17/18 安全架构白皮书（续）：Tightbeam IPC 与 Exclaves 安全通信体系](./52-ios-17-18-tightbeam-ipc.md)
 53. [iOS 安全暗线：Coruna 与 DarkSword 漏洞链是如何突破苹果层层防线的](./53-iOS安全暗线-Coruna与DarkSword漏洞链深度分析报告.md)
 54. [典型 iOS 漏洞攻击链深度解析：从 WebKit 入口到系统级控制](./54-典型iOS漏洞攻击链深度解析-从WebKit入口到系统级控制.md)
-55. WebKit + Mach IPC + Kernel：现代 iOS Exploit Chain 完整分析（待发布）
+55. [WebKit + Mach IPC + Kernel：现代 iOS Exploit Chain 完整分析](./55-WebKit-MachIPC-Kernel-现代iOS-Exploit-Chain完整分析.md)
 56. WebKit 漏洞研究方法：从 JavaScriptCore 到 JIT 安全（待发布）
 57. iOS WebKit 漏洞深度解析：从浏览器引擎到系统级攻击面（待发布）
 58. iOS WebKit 远程代码执行、沙箱逃逸、内核提权与 PAC 绕过网络安全分析报告（2026）（待发布）
