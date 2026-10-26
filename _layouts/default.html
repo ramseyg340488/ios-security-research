@@ -13,11 +13,68 @@
     {%- else -%}
       {%- assign pagetitle = ptitle | append: ' — ' | append: site.title -%}
       {%- assign pagedesc = ptitle | append: '。' | append: site.description -%}
+    {%- endif -%}
+    {%- assign cur = page.path | slice: 0, 2 | plus: 0 -%}
+    {%- assign canonical = site.url | append: site.baseurl | append: page.url -%}
+    {%- if cur > 0 -%}
+      {%- assign prevnum = cur | minus: 1 -%}
+      {%- assign nextnum = cur | plus: 1 -%}
+      {%- if prevnum < 10 -%}{%- assign prevkey = '0' | append: prevnum -%}{%- else -%}{%- assign prevkey = prevnum | append: '' -%}{%- endif -%}
+      {%- if nextnum < 10 -%}{%- assign nextkey = '0' | append: nextnum -%}{%- else -%}{%- assign nextkey = nextnum | append: '' -%}{%- endif -%}
+      {%- assign prevdash = prevkey | append: '-' -%}
+      {%- assign nextdash = nextkey | append: '-' -%}
+      {%- assign prevpage = nil -%}
+      {%- assign nextpage = nil -%}
+      {%- for p in site.pages -%}
+        {%- assign ppre = p.path | slice: 0, 3 -%}
+        {%- if ppre == prevdash -%}{%- assign prevpage = p -%}{%- endif -%}
+        {%- if ppre == nextdash -%}{%- assign nextpage = p -%}{%- endif -%}
+      {%- endfor -%}
     {%- endif %}
     <title>{{ pagetitle | escape }}</title>
     <meta name="description" content="{{ pagedesc | escape }}">
-    <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+    <link rel="canonical" href="{{ canonical }}">
+    {%- if prevpage %}
+    <link rel="prev" href="{{ site.url }}{{ site.baseurl }}{{ prevpage.url }}">
+    {%- endif %}
+    {%- if nextpage %}
+    <link rel="next" href="{{ site.url }}{{ site.baseurl }}{{ nextpage.url }}">
+    {%- endif %}
+    {%- if cur > 0 %}
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ ptitle | jsonify }},
+  "inLanguage": "{{ site.lang | default: 'zh-CN' }}",
+  "url": {{ canonical | jsonify }},
+  "mainEntityOfPage": { "@type": "WebPage", "@id": {{ canonical | jsonify }} },
+  "isPartOf": {
+    "@type": "CreativeWorkSeries",
+    "name": {{ site.title | jsonify }},
+    "url": {{ site.url | append: site.baseurl | append: '/' | jsonify }}
+  },
+  "publisher": { "@type": "Organization", "name": {{ site.title | jsonify }} }
+}
+    </script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": {{ site.title | jsonify }}, "item": {{ site.url | append: site.baseurl | append: '/' | jsonify }} },
+    { "@type": "ListItem", "position": 2, "name": {{ ptitle | jsonify }}, "item": {{ canonical | jsonify }} }
+  ]
+}
+    </script>
+    {%- endif %}
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <style>
+      .series-nav { display: flex; justify-content: space-between; gap: 12px; margin-top: 28px; padding-top: 16px; border-top: 1px solid #eff0f1; font-size: 0.9rem; }
+      .series-nav span { flex: 1 1 0; }
+      .series-nav .nav-mid { text-align: center; flex: 0 0 auto; }
+      .series-nav .nav-next { text-align: right; }
+    </style>
   </head>
   <body>
     <header class="page-header">
@@ -29,6 +86,21 @@
     <section class="main-content">
       <div class="inner">
         {{ content }}
+        {%- if cur > 0 %}
+        <nav class="series-nav" aria-label="系列文章导航">
+          <span class="nav-prev">
+            {%- if prevpage %}
+            <a href="{{ prevpage.url | relative_url }}">&#8592; 上一篇：{{ prevpage.title | escape }}</a>
+            {%- endif %}
+          </span>
+          <span class="nav-mid"><a href="{{ '/' | relative_url }}">系列目录</a></span>
+          <span class="nav-next">
+            {%- if nextpage %}
+            <a href="{{ nextpage.url | relative_url }}">下一篇：{{ nextpage.title | escape }} &#8594;</a>
+            {%- endif %}
+          </span>
+        </nav>
+        {%- endif %}
         <footer class="site-footer">
           <a href="{{ '/' | relative_url }}">返回系列目录</a>
         </footer>
