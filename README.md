@@ -73,7 +73,7 @@
 63. [iOS 17/18安全架构白皮书——基于Secure Enclave、SPTM、TXM与Exclaves的新一代可信计算体系](./63-ios-17-18-security-whitepaper.md)
 64. [iOS 17/18安全架构深度解析 第六章：Secure Kernel、XNU与Exclaves的架构关系及可信执行机制](./64-ios-17-18-secure-kernel-xnu-exclaves.md)
 65. [iOS安全技术深度解析：从硬件信任根到高级漏洞攻击链](./65-iOS安全技术深度解析-从硬件信任根到高级漏洞攻击链.md)
-66. iOS 水坑攻击网络安全分析报告（待发布）
+66. [iOS 水坑攻击网络安全分析报告](./66-iOS水坑攻击网络安全分析报告.md)
 67. iOS 远程代码执行漏洞网络安全分析报告（待发布）
 68. iOS 系统网络安全漏洞分析报告（待发布）
 69. 商业间谍软件生态研究：Pegasus、Predator与iOS高级攻击链——从零点击漏洞到移动监控平台的产业化演进（待发布）
