@@ -81,7 +81,7 @@
 71. [iOS 键盘扩展与剪贴板安全分析——从第三方输入法到 Pasteboard 分级的隐私攻防](./71-iOS键盘扩展与剪贴板安全分析-从第三方输入法到Pasteboard分级的隐私攻防.md)
 72. [iOS 网络扩展与 VPN 配置安全分析——从流量过滤到隧道包含的信任边界](./72-iOS网络扩展与VPN配置安全分析-从流量过滤到隧道包含的信任边界.md)
 73. [iOS 图片与文档解析零点击攻击面分析——从 CoreGraphics 到 ImageIO 的投递路径演进](./73-iOS图片与文档解析零点击攻击面分析-从CoreGraphics到ImageIO的投递路径演进.md)
-74. iOS eSIM 与运营商配置安全分析——从 SM-DP+ 注册到 OTA 配置文件的信任链（待发布）
+74. [iOS eSIM 与运营商配置安全分析——从 SM-DP+ 注册到 OTA 配置文件的信任链](./74-iOS的eSIM与运营商配置安全分析-从SMDP注册到OTA配置文件的信任链.md)
 75. iOS 数据备份与密钥托管安全分析——从 iXguard 到 KeyBag 的 BFU 与 AFU 取证攻防（待发布）
 76. Apple 私有云计算（Private Cloud Compute）安全架构分析——从远程证明到可验证透明的 AI 隐私边界（待发布）
 77. iOS 消息通道安全演进分析——从 BlastDoor 到 RCS 端到端加密的攻击面迁移（待发布）
