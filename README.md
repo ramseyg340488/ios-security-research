@@ -85,7 +85,7 @@
 75. [iOS 数据备份与密钥托管安全分析——从 iXguard 到 KeyBag 的 BFU 与 AFU 取证攻防](./75-iOS数据备份与密钥托管安全分析-从iXguard到KeyBag的BFU与AFU取证攻防.md)
 76. [Apple 私有云计算（Private Cloud Compute）安全架构分析——从远程证明到可验证透明的 AI 隐私边界](./76-iOS私有云计算PCC安全架构分析-从远程证明到可验证透明的AI隐私边界.md)
 77. [iOS 消息通道安全演进分析——从 BlastDoor 到 RCS 端到端加密的攻击面迁移](./77-iOS消息通道安全演进分析-从BlastDoor到RCS端到端加密的攻击面迁移.md)
-78. iOS 现代越狱生态与签名绕过研究——从 checkm8 到 TrollStore 的持久化攻防（待发布）
+78. [iOS 现代越狱生态与签名绕过研究——从 checkm8 到 TrollStore 的持久化攻防](./78-iOS现代越狱生态与签名绕过研究-从checkm8到TrollStore的持久化攻防.md)
 79. iOS 应用供应链安全分析——从企业证书滥用到重签名注入的灰产链条（待发布）
 
 ## 阅读顺序建议
