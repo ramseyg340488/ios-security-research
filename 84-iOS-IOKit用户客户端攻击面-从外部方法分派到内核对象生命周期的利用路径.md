@@ -410,4 +410,4 @@ Coruna 与 DarkSword 的路线差异提醒我们，入口形态会变，但对�
 
 ---
 
-**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**
+**咨询iOS，安卓系统安全相关问题，请联系 Telegram：https://t.me/one00190**

@@ -408,4 +408,4 @@ Coruna 与 DarkSword 的对照说明，攻击工程并不需要破解加密算�
 
 ---
 
-**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**
+**咨询iOS，安卓系统安全相关问题，请联系 Telegram：https://t.me/one00190**

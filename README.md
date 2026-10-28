@@ -102,3 +102,5 @@
 ## 说明
 
 同一系列在 GitHub 与 Gitee 同步发布。
+
+**咨询iOS，安卓系统安全相关问题，请联系 Telegram：https://t.me/one00190**

@@ -379,4 +379,4 @@ DarkSword 类路线的生命周期（示意）
 
 ---
 
-**咨询iOS系统安全相关问题，请联系 Telegram：https://t.me/one00190**
+**咨询iOS，安卓系统安全相关问题，请联系 Telegram：https://t.me/one00190**
