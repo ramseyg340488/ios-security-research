@@ -6,7 +6,7 @@
 
 ## 目录
 
-本系列共 87 篇，按顺序陆续发布。
+本系列共 88 篇，按顺序陆续发布。
 
 1. [iOS 安全架构演进：SPTM、TXM 与 Exclaves 技术体系解析](./01-iOS安全架构演进-SPTM-TXM与Exclaves技术体系解析.md)
 2. [iOS 安全沙箱机制深度解析：从 Coruna 与 DarkSword 看沙箱逃逸的攻防演进](./02-iOS安全沙箱机制深度解析-从Coruna与DarkSword看沙箱逃逸的攻防演进.md)
@@ -95,6 +95,7 @@
 85. [iOS 物理接口与配件信任边界——从 USB 限制模式到 MFi 与 CarPlay 的配对链安全](./85-iOS物理接口与配件信任边界-从USB限制模式到MFi与CarPlay的配对链安全.md)
 86. [iOS 位置服务与传感器数据安全——从 CoreLocation 到运动传感器的隐私与取证边界](./86-iOS位置服务与传感器数据安全-从CoreLocation到运动传感器的隐私与取证边界.md)
 87. [iOS 账户体系与激活锁安全——从 AppleID 接管到 iCloud 数据访问的信任链](./87-iOS账户体系与激活锁安全-从AppleID接管到iCloud数据访问的信任链.md)
+88. [iOS 支付与钱包安全——从 Apple Pay 到安全元件交易信任链的攻防分析](./88-iOS支付与钱包安全-从ApplePay到安全元件交易信任链的攻防分析.md)
 
 ## 阅读顺序建议
 
