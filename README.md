@@ -6,7 +6,7 @@
 
 ## 目录
 
-本系列共 79 篇，按顺序陆续发布。
+本系列共 80 篇，按顺序陆续发布。
 
 1. [iOS 安全架构演进：SPTM、TXM 与 Exclaves 技术体系解析](./01-iOS安全架构演进-SPTM-TXM与Exclaves技术体系解析.md)
 2. [iOS 安全沙箱机制深度解析：从 Coruna 与 DarkSword 看沙箱逃逸的攻防演进](./02-iOS安全沙箱机制深度解析-从Coruna与DarkSword看沙箱逃逸的攻防演进.md)
@@ -87,6 +87,7 @@
 77. [iOS 消息通道安全演进分析——从 BlastDoor 到 RCS 端到端加密的攻击面迁移](./77-iOS消息通道安全演进分析-从BlastDoor到RCS端到端加密的攻击面迁移.md)
 78. [iOS 现代越狱生态与签名绕过研究——从 checkm8 到 TrollStore 的持久化攻防](./78-iOS现代越狱生态与签名绕过研究-从checkm8到TrollStore的持久化攻防.md)
 79. [iOS 应用供应链安全分析——从企业证书滥用到重签名注入的灰产链条](./79-iOS应用供应链安全分析-从企业证书滥用到重签名注入的灰产链条.md)
+80. [iOS 应用扩展与 XPC 进程间通信安全——从 NSExtension 到系统守护进程的横向移动面](./80-iOS应用扩展与XPC进程间通信安全-从NSExtension到系统守护进程的横向移动面.md)
 
 ## 阅读顺序建议
 
