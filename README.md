@@ -91,6 +91,7 @@
 81. [iOS 数据保护类与静态数据边界——从 NSFileProtection 到类密钥的加密分层](./81-iOS数据保护类与静态数据边界-从NSFileProtection到类密钥的加密分层.md)
 82. [iOS 通知与推送通道安全——从 APNs 到通知服务扩展的注入与泄露面](./82-iOS通知与推送通道安全-从APNs到通知服务扩展的注入与泄露面.md)
 83. [iOS WebKit 站点隔离与进程模型——从 Site Isolation 到水坑攻击抑制的工程评估](./83-iOS-WebKit站点隔离与进程模型-从SiteIsolation到水坑攻击抑制的工程评估.md)
+85. [iOS 物理接口与配件信任边界——从 USB 限制模式到 MFi 与 CarPlay 的配对链安全](./85-iOS物理接口与配件信任边界-从USB限制模式到MFi与CarPlay的配对链安全.md)
 
 ## 阅读顺序建议
 
