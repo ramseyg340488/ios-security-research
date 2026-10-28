@@ -6,7 +6,7 @@
 
 ## 目录
 
-本系列共 86 篇，按顺序陆续发布。
+本系列共 84 篇，按顺序陆续发布。
 
 1. [iOS 安全架构演进：SPTM、TXM 与 Exclaves 技术体系解析](./01-iOS安全架构演进-SPTM-TXM与Exclaves技术体系解析.md)
 2. [iOS 安全沙箱机制深度解析：从 Coruna 与 DarkSword 看沙箱逃逸的攻防演进](./02-iOS安全沙箱机制深度解析-从Coruna与DarkSword看沙箱逃逸的攻防演进.md)
@@ -91,6 +91,7 @@
 81. [iOS 数据保护类与静态数据边界——从 NSFileProtection 到类密钥的加密分层](./81-iOS数据保护类与静态数据边界-从NSFileProtection到类密钥的加密分层.md)
 82. [iOS 通知与推送通道安全——从 APNs 到通知服务扩展的注入与泄露面](./82-iOS通知与推送通道安全-从APNs到通知服务扩展的注入与泄露面.md)
 83. [iOS WebKit 站点隔离与进程模型——从 Site Isolation 到水坑攻击抑制的工程评估](./83-iOS-WebKit站点隔离与进程模型-从SiteIsolation到水坑攻击抑制的工程评估.md)
+84. [iOS IOKit 用户客户端攻击面——从外部方法分派到内核对象生命周期的利用路径](./84-iOS-IOKit用户客户端攻击面-从外部方法分派到内核对象生命周期的利用路径.md)
 85. [iOS 物理接口与配件信任边界——从 USB 限制模式到 MFi 与 CarPlay 的配对链安全](./85-iOS物理接口与配件信任边界-从USB限制模式到MFi与CarPlay的配对链安全.md)
 86. [iOS 位置服务与传感器数据安全——从 CoreLocation 到运动传感器的隐私与取证边界](./86-iOS位置服务与传感器数据安全-从CoreLocation到运动传感器的隐私与取证边界.md)
 
