@@ -88,7 +88,7 @@
 78. [iOS 现代越狱生态与签名绕过研究——从 checkm8 到 TrollStore 的持久化攻防](./78-iOS现代越狱生态与签名绕过研究-从checkm8到TrollStore的持久化攻防.md)
 79. [iOS 应用供应链安全分析——从企业证书滥用到重签名注入的灰产链条](./79-iOS应用供应链安全分析-从企业证书滥用到重签名注入的灰产链条.md)
 80. [iOS 漏洞治理时序分析——从 Coruna 与 DarkSword 看补丁发布到 KEV 强制修复的响应链](./iOS漏洞治理时序分析-从Coruna与DarkSword看补丁发布到KEV强制修复的响应链.md)
-81. 锁定模式对 Coruna 与 DarkSword 攻击链的逐环节阻断评估——iOS 高防护配置的效果与代价（待发布）
+81. [锁定模式对 Coruna 与 DarkSword 攻击链的逐环节阻断评估——iOS 高防护配置的效果与代价](./iOS锁定模式对Coruna与DarkSword攻击链的逐环节阻断评估.md)
 82. iOS 内核信息泄露原语分析——从 Coruna 与 DarkSword 看地址随机化的攻防（待发布）
 83. iOS 沙箱配置文件与 Entitlement 结构解析——从 Coruna 与 DarkSword 的逃逸目标看权限最小化缺陷（待发布）
 84. Coruna 与 DarkSword 的端点检测规则工程——从进程异常到配置漂移的威胁狩猎（待发布）
