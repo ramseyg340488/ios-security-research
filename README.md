@@ -90,7 +90,7 @@
 80. [iOS 漏洞治理时序分析——从 Coruna 与 DarkSword 看补丁发布到 KEV 强制修复的响应链](./iOS漏洞治理时序分析-从Coruna与DarkSword看补丁发布到KEV强制修复的响应链.md)
 81. [锁定模式对 Coruna 与 DarkSword 攻击链的逐环节阻断评估——iOS 高防护配置的效果与代价](./iOS锁定模式对Coruna与DarkSword攻击链的逐环节阻断评估.md)
 82. [iOS 内核信息泄露原语分析——从 Coruna 与 DarkSword 看地址随机化的攻防](./iOS内核信息泄露原语分析-Coruna与DarkSword利用链中的地址随机化对抗.md)
-83. iOS 沙箱配置文件与 Entitlement 结构解析——从 Coruna 与 DarkSword 的逃逸目标看权限最小化缺陷（待发布）
+83. [iOS 沙箱配置文件与 Entitlement 结构解析——从 Coruna 与 DarkSword 的逃逸目标看权限最小化缺陷](./iOS沙箱配置文件与Entitlement结构解析-从Coruna与DarkSword逃逸目标看权限最小化.md)
 84. Coruna 与 DarkSword 的端点检测规则工程——从进程异常到配置漂移的威胁狩猎（待发布）
 85. iOS 高级间谍软件事件响应手册——疑似 Coruna 与 DarkSword 感染后的采集、隔离与恢复（待发布）
 86. iOS 内核拷贝边界与栈保护机制分析——从 ShadowCallStack 到 copyin 校验的攻防（待发布）
