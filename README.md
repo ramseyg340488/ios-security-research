@@ -106,7 +106,7 @@
 96. [疑似 Coruna 与 DarkSword 感染设备的取证方法分析——工件时间线、崩溃报告与利用链重建](./96-疑似Coruna与DarkSword感染设备的取证方法分析-工件时间线崩溃报告与利用链重建.md)
 97. [商业间谍软件载荷分层与指挥控制协议分析——从 IronLoader 到 Gallium 模块的任务分发模型](./97-商业间谍软件载荷分层与指挥控制协议分析-从IronLoader到Gallium模块的任务分发模型.md)
 98. [iOS 水坑攻击基础设施测绘与跨层阻断方法——域名生命周期、证书指纹与托管方协同](./98-iOS水坑攻击基础设施测绘与跨层阻断方法-域名生命周期证书指纹与托管方协同.md)
-99. 移动威胁情报的生产与治理分析——Coruna 与 DarkSword 类事件的 IOC 生命周期与 ATT&CK Mobile 映射（待发布）
+99. [移动威胁情报的生产与治理分析——Coruna 与 DarkSword 类事件的 IOC 生命周期与 ATT&CK Mobile 映射](./99-移动威胁情报的生产与治理分析-Coruna与DarkSword类事件的IOC生命周期与ATTCK映射.md)
 
 ## 阅读顺序建议
 
