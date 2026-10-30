@@ -97,7 +97,7 @@
 87. [企业移动安全视角下的 Coruna 与 DarkSword 防护——MDM 策略、MTD 能力边界与补丁 SLA 设计](./87-企业移动安全视角下的Coruna与DarkSword防护-MDM策略MTD能力与补丁SLA.md)
 88. [商业间谍软件的治理链条——Coruna 与 DarkSword 的归因争议、出口管制与零日经济学](./88-商业间谍软件的治理链条-Coruna与DarkSword的归因争议出口管制与零日经济学.md)
 89. [iOS 图形与 GPU 驱动攻击面分析——从 Coruna 与 DarkSword 看内核利用的驱动侧路径](./89-iOS图形与GPU驱动攻击面分析-Coruna与DarkSword时代的内核侧新跳板.md)
-90. Coruna 与 DarkSword 利用链的工程结构对比——模块化加载、阶段编排与失败恢复机制分析（待发布）
+90. [Coruna 与 DarkSword 利用链的工程结构对比——模块化加载、阶段编排与失败恢复机制分析](./90-Coruna与DarkSword利用链工程结构对比-模块化加载阶段编排与失败恢复机制分析.md)
 91. JavaScriptCore JIT 漏洞挖掘与缓解评估——差分测试、模糊测试与类型系统审计的防御视角（待发布）
 92. iOS 高级间谍软件的驻留与再感染机制分析——进程注入、启动链与配置持久化的攻防（待发布）
 93. iOS Mach 端口权限与 IPC 授权模型攻防分析——task_for_pid、bootstrap 命名空间与沙箱 IPC 策略（待发布）
