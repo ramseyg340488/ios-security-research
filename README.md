@@ -100,7 +100,7 @@
 90. [Coruna 与 DarkSword 利用链的工程结构对比——模块化加载、阶段编排与失败恢复机制分析](./90-Coruna与DarkSword利用链工程结构对比-模块化加载阶段编排与失败恢复机制分析.md)
 91. [JavaScriptCore JIT 漏洞挖掘与缓解评估——差分测试、模糊测试与类型系统审计的防御视角](./91-JavaScriptCore-JIT漏洞挖掘与缓解评估-差分测试模糊测试与类型系统审计的防御视角.md)
 92. [iOS 高级间谍软件的驻留与再感染机制分析——进程注入、启动链与配置持久化的攻防](./92-iOS高级间谍软件驻留与再感染机制分析-进程注入启动链与配置持久化.md)
-93. iOS Mach 端口权限与 IPC 授权模型攻防分析——task_for_pid、bootstrap 命名空间与沙箱 IPC 策略（待发布）
+93. [iOS Mach 端口权限与 IPC 授权模型攻防分析——task_for_pid、bootstrap 命名空间与沙箱 IPC 策略](./93-iOS-Mach端口权限与IPC授权模型攻防分析-task_for_pid-bootstrap命名空间与沙箱IPC策略.md)
 94. iOS 隐私权限服务与受保护数据访问边界分析——从 TCC 记录到通讯录、照片与消息的实际可读性（待发布）
 95. iOS 系统遥测与日志在威胁狩猎中的可用性分析——从 os_trace 到 sysdiagnose 的信号与盲区（待发布）
 96. 疑似 Coruna 与 DarkSword 感染设备的取证方法分析——工件时间线、崩溃报告与利用链重建（待发布）
