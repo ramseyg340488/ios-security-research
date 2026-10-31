@@ -110,7 +110,7 @@
 100. [iOS 图形合成与窗口服务 IPC 攻击面分析——从 SkyLight 与 WindowServer 到 CGS 连接的用户态图形边界](./100-iOS图形合成与窗口服务IPC攻击面分析-SkyLight与WindowServer的用户态图形边界.md)
 101. [iOS 熵源、随机数与时间基准的双重角色分析——从 arc4random 到 mach_absolute_time 的利用依赖与取证对齐](./101-iOS熵源随机数与时间基准双重角色分析-从arc4random到MachabsoluteTime的利用依赖与取证对齐.md)
 102. [iOS 应用层 TLS 校验实现缺陷与证书固定分析——从 Secure Transport 到第三方网络库对隐蔽通信的影响与检测](./102-iOS应用层TLS校验实现缺陷与证书固定分析-从SecureTransport到第三方网络库对C2隐蔽性的影响.md)
-103. iOS 辅助功能与自动化接口的双面性分析——Accessibility、语音控制与 UI 测试通道在攻击与检测中的角色（待发布）
+103. [iOS 辅助功能与自动化接口的双面性分析——Accessibility、语音控制与 UI 测试通道在攻击与检测中的角色](./103-iOS辅助功能与自动化接口双面性分析-Accessibility语音控制与UI测试通道在攻击与检测中的角色.md)
 104. iOS 数据外传通道测绘与检测分析——备份、同步、Continuity 与通用接力在疑似感染事件中的路径（待发布）
 105. iOS 文件保护类与数据保护等级可提取性评估——NSFileProtection 完整档与 BFU/AFU 状态下的密钥可用性（待发布）
 106. iOS 内核缓解措施效能度量方法分析——从原语阻断率到攻击者成本模型的工程评估（待发布）
