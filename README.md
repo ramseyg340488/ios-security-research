@@ -112,7 +112,7 @@
 102. [iOS 应用层 TLS 校验实现缺陷与证书固定分析——从 Secure Transport 到第三方网络库对隐蔽通信的影响与检测](./102-iOS应用层TLS校验实现缺陷与证书固定分析-从SecureTransport到第三方网络库对C2隐蔽性的影响.md)
 103. [iOS 辅助功能与自动化接口的双面性分析——Accessibility、语音控制与 UI 测试通道在攻击与检测中的角色](./103-iOS辅助功能与自动化接口双面性分析-Accessibility语音控制与UI测试通道在攻击与检测中的角色.md)
 104. [iOS 数据外传通道测绘与检测分析——备份、同步、Continuity 与通用接力在疑似感染事件中的路径](./104-iOS数据外传通道测绘与检测分析-备份同步Continuity与通用接力在疑似感染事件中的路径.md)
-105. iOS 文件保护类与数据保护等级可提取性评估——NSFileProtection 完整档与 BFU/AFU 状态下的密钥可用性（待发布）
+105. [iOS 文件保护类与数据保护等级可提取性评估——NSFileProtection 完整档与 BFU/AFU 状态下的密钥可用性](./105-iOS文件保护类与数据保护等级可提取性评估-NSFileProtection完整档与BFUAFU状态下的密钥可用性.md)
 106. iOS 内核缓解措施效能度量方法分析——从原语阻断率到攻击者成本模型的工程评估（待发布）
 107. 企业接入决策中的 iOS 设备证明与远程 attestation 可信度分析——MDM 证明、设备指纹与零信任判断在高级链面前的失效模式（待发布）
 108. iOS 内存安全语言重写对 Coruna 与 DarkSword 类缺陷的抑制评估——从 Swift 与 Rust 组件到系统服务的边界效应（待发布）
