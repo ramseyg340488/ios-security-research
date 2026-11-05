@@ -163,7 +163,7 @@
 153. [iOS 屏幕使用时间与家长控制安全——从停用时间到通信限制的绕过与加固](./153-iOS屏幕使用时间与家长控制安全-从停用时间到通信限制的绕过与加固.md)
 154. [iOS 聚焦搜索与索引安全——从 CoreSpotlight 到锁屏搜索的数据暴露边界](./154-iOS聚焦搜索与索引安全-从CoreSpotlight到锁屏搜索的数据暴露边界.md)
 155. [iOS 超宽带与 Nearby Interaction 安全——从 U1 芯片测距到精确查找的信任边界](./155-iOS超宽带与NearbyInteraction安全-从U1芯片测距到精确查找的信任边界.md)
-156. iOS FaceTime 通话安全——从端到端加密到 SharePlay 与通话链接的信任边界（待发布）
+156. [iOS FaceTime 通话安全——从端到端加密到 SharePlay 与通话链接的信任边界](./156-iOSFaceTime通话安全-从端到端加密到SharePlay与通话链接的信任边界.md)
 157. iOS Safari 扩展与内容拦截器安全——从 WebExtension 权限到脚本注入的边界（待发布）
 158. iOS TestFlight 与 Beta 分发安全——从内部测试到外部构建的信任边界（待发布）
 159. iOS 设备迁移与 Quick Start 安全——从设备间传输到恢复备份的信任边界（待发布）
