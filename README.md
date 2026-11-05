@@ -174,7 +174,7 @@
 164. [iOS 本地网络隐私权限安全——从 Bonjour 发现到智能家居设备访问的边界](./164-iOS本地网络隐私权限安全-从Bonjour发现到智能家居设备访问的边界.md)
 165. [iOS Wi-Fi 隐私与私有地址安全——从 MAC 随机化到强制门户的边界](./165-iOSWiFi隐私与私有地址安全-从MAC随机化到强制门户的边界.md)
 166. [iOS 通用链接与关联域安全——从 Universal Links 到深度链接劫持的边界](./166-iOS通用链接与关联域安全-从UniversalLinks到深度链接劫持的边界.md)
-167. iOS 分享表单与分享扩展安全——从 UIActivityViewController 到 NSItemProvider 的信任边界（待发布）
+167. [iOS 分享表单与分享扩展安全——从 UIActivityViewController 到 NSItemProvider 的信任边界](./167-iOS分享表单与分享扩展安全-从UIActivityViewController到NSItemProvider的信任边界.md)
 168. iOS 文件 App 与文档提供者扩展安全——从 FileProvider 到安全作用域 URL 的边界（待发布）
 169. iOS 专注模式与通知摘要安全——从 Focus 过滤到锁屏预览的隐私边界（待发布）
 170. iOS 诊断数据与日志共享安全——从 Analytics 到 sysdiagnose 的取证边界（待发布）
