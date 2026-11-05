@@ -161,7 +161,7 @@
 151. [Safari 智能防跟踪与 App 隐私报告——从 ITP 到链接追踪保护的反指纹边界](./151-Safari智能防跟踪与App隐私报告-从ITP到链接追踪保护的反指纹边界.md)
 152. [iOS 邮件隐私保护与邮件 App 跟踪防护——从 Mail Privacy Protection 到远程内容加载的信任边界](./152-iOS邮件隐私保护与邮件App跟踪防护-从MailPrivacyProtection到远程内容加载的信任边界.md)
 153. [iOS 屏幕使用时间与家长控制安全——从停用时间到通信限制的绕过与加固](./153-iOS屏幕使用时间与家长控制安全-从停用时间到通信限制的绕过与加固.md)
-154. iOS 聚焦搜索与索引安全——从 CoreSpotlight 到锁屏搜索的数据暴露边界（待发布）
+154. [iOS 聚焦搜索与索引安全——从 CoreSpotlight 到锁屏搜索的数据暴露边界](./154-iOS聚焦搜索与索引安全-从CoreSpotlight到锁屏搜索的数据暴露边界.md)
 155. iOS 超宽带与 Nearby Interaction 安全——从 U1 芯片测距到精确查找的信任边界（待发布）
 156. iOS FaceTime 通话安全——从端到端加密到 SharePlay 与通话链接的信任边界（待发布）
 157. iOS Safari 扩展与内容拦截器安全——从 WebExtension 权限到脚本注入的边界（待发布）
